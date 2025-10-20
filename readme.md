@@ -1,5 +1,9 @@
 # Vefforritun 1, 2025: Verkefni 8, JavaScript #2
 
+- [Fyrirlestur 9.2: Verkefni 8](https://youtu.be/jtPxnGjNzmo)
+- [Fyrirlestur 10.1: Meira um verkefni 8](https://youtu.be/1P6xlHeoJxU)
+- [Fyrirlestur 10.2: Enn meira um verkefni 8](https://youtu.be/KKR0oiE4qTE)
+
 ## Markmið
 
 - Skipta JavaScript forriti upp í einingar.
